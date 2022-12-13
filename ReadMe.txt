@@ -1,0 +1,1 @@
+This is a project of a simple calculator where it will be tested backend and frontend using springboot,junit and mockito using cypress and jest automation tests.
